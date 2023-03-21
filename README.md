@@ -1,2 +1,2 @@
-# NYC Flood Layers Analysis
-Mark Bauer
+# Analyzing New York City's Flood Layers
+Author: Mark Bauer
