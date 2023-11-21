@@ -3,7 +3,7 @@ Author: Mark Bauer
 
 A collection of free and publicly available flood hazard layers for New York City. You can find a tutorial on how to download and explore these files in Python in the [download-layers.ipynb](https://github.com/mebauer/nyc-flood-layers/blob/main/download-layers.ipynb) notebook. The tutorial focuses on open source and reproducible workflows.
 
-[cover-photo]('images/cover-photo.png')
+![cover-photo](images/cover-photo.png)
 
 | Dataset | Description |
 | :-------- | :---------- |
